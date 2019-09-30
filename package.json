@@ -1,0 +1,9 @@
+{
+  "private": true,
+  "name": "@lffg/sopt-88472",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:lffg-archive/sopt-88472.git",
+  "author": "Luiz Felipe <https://luizfelipe.dev>",
+  "license": "MIT"
+}
