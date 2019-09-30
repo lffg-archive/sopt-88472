@@ -8,5 +8,9 @@
   "license": "MIT",
   "dependencies": {
     "puppeteer": "^1.20.0"
+  },
+  "devDependencies": {
+    "eslint": "^6.5.0",
+    "eslint-config-lffg": "^9.0.0"
   }
 }
